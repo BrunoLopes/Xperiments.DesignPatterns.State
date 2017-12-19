@@ -16,6 +16,8 @@
 
 ### Diagrama de classes
 > ![N|MFYIT](https://upload.wikimedia.org/wikipedia/commons/b/b9/LibroActualizado.jpg)
+
+### Diagrama de estado
 > ![N|MFYIT](https://upload.wikimedia.org/wikipedia/commons/c/ce/EstadosState.jpg)
 
 ---
